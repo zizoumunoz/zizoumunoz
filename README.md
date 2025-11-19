@@ -12,9 +12,6 @@ I also like making my own build scripts using powershell so I can get more
 familiar with compiling/linking! If you want to build any of my C/C++ projects,
 make sure you are in the Developer Console for VS instead of the normal one.
 
-You can check out the code for my projects here, or see some in action in my
-(WIP) website, [zinadine.ca](http://zinadine.ca/)!
-
 ## Contact Me
 
 Visit my  [portfolio website](https://zinadine.ca/)  
