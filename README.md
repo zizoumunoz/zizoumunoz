@@ -19,9 +19,8 @@ You can check out the code for my projects here, or see some in action in my
 
 ## Contact Me
 
-Visit my  [portfolio website](https://zinadine.ca/)
+Visit my  [portfolio website](https://zinadine.ca/)  
 Connect with me on  [LinkedIn](https://www.linkedin.com/in/zinadine-mu%C3%B1oz-luna-464405202/)
-
 
 ## My GitHub Stats
 
