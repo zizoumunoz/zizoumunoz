@@ -3,7 +3,7 @@
 
 I'm a university student working on becoming a game developer.
 
-I specialize in C/CPP, C#, and Java.
+I specialize in C/C++, C#, and Java.
 
 My top current active project is Station 93, a terminal style game inspired
 on the tabletop RPG 'Traveller' and the original Rogue from 1980.
