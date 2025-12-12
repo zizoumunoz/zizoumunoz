@@ -19,4 +19,4 @@ Connect with me on  [LinkedIn](https://www.linkedin.com/in/zinadine-mu%C3%B1oz-l
 
 ## My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zizoumunoz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizoumunoz)](https://github.com/anuraghazra/github-readme-stats)
